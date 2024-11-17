@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Preet Pilwan   
-I'm Preet Pilwan, a cybersecurity engineer and tech enthusiast! 🚀
+I'm Preet Pilwan, a tech enthusiast! 🚀
 
 
 Welcome to my GitHub profile! I'm a passionate  **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
