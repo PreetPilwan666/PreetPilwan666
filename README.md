@@ -1,3 +1,11 @@
+# 👋 Hi, I'm Preet Pilwan   
+I'm Preet Pilwan, a cybersecurity engineer and tech enthusiast! 🚀
+
+
+Welcome to my GitHub profile! I'm a passionate  **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
+
+# 💫 About Me:
+⚡Founder- RxpexInfinity<br>🔭 I’m currently working on RxpexInfinity<br>👯 I’m looking to collaborate on RxpexInfinity<br>🤝 I’m looking for help with Algorithms.<br>🌱 I’m currently learning Machine learning and artificial intelligence.<br>💬 Myself Preet Pilwan<br>⚡ Nothing is finite
 
 
 ## 🌐Socials
