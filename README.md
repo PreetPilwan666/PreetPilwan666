@@ -10,8 +10,8 @@ Whether it's lifting weights or exploring the world of automobiles, I bring the 
 ---
 
 # 💫 About Me:
-- ⚡ **Founder** of RxpexInfinity  
-- 🔭 Currently working on **RxpexInfinity**  
+- ⚡ **Co-Founder** of RxpexInfinity  
+- 🔭 Currently working on **RI**  
 - 👯 Open to collaborating on exciting tech and fitness-related projects!  
 - 🌱 Exploring **AI, Machine Learning**, and the **automotive tech industry**  
 - 💬 Passionate about **staying fit** and **understanding cars inside out**  
